@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 4em auto;
+    font-size: 1.3em;
+    line-height: 1.4em;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: left;
+    padding: 2em;
+}
+
+
+
+th {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    background-color: black;
+    color: white;
+}
+
+code {
+    background-color: black;
+    color: white;
+    padding: 1em;
+
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 1em;
+}
+
+.codeInPara {
+    background-color: white;
+    color: black;
+    padding: 0;
+    font-weight: bold;   
+}
